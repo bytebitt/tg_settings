@@ -1,2 +1,1 @@
-# tg_settings
-a program on a flutter for practicing knowledge
+a program for practicing basic knowledge of the flutter framework (based on the LazyLoad course)
