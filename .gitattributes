@@ -1,31 +1,5 @@
-# Ігноруємо нативні платформи
-ios/* linguist-vendored
-android/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
-windows/* linguist-vendored
-
-# Lock файли
-pubspec.lock linguist-vendored
-*.lock linguist-vendored
-
-# Build файли
-build/** linguist-vendored
-.flutter-plugins-dependencies linguist-vendored
-.flutter-plugins linguist-vendored
-
-# Автогенеровані та конфігураційні файли
-*.gradle linguist-vendored
-*.sh linguist-vendored
-*.bat linguist-vendored
-*.plist linguist-vendored
-*.xml linguist-vendored
-*.yaml linguist-vendored
-
-# Додатково — приховуємо все в .dart_tool (теж автоген)
-.dart_tool/** linguist-vendored
-
-# Кеші та IDE файли
-.idea/** linguist-vendored
-.vscode/** linguist-vendored
-*.iml linguist-vendored
+ios/** linguist-vendored
+android/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
